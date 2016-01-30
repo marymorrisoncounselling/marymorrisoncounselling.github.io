@@ -56,7 +56,7 @@ body {
   box-sizing: border-box;
   color:#4C4C4C;
   background: #c9c9c9;
-  font-size: 16px;
+  font-size: 14px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
@@ -102,12 +102,12 @@ p {
 }
 
 footer p {
-  color: #9fa8a3;
+  color: #4C4C4C;
 }
 
 a {
   text-decoration: none;
-  color: #007edf;
+  color: #4C4C4C;
   text-shadow: none;
 
   transition: color 0.5s ease;
@@ -122,11 +122,11 @@ a {
   -ms-transition: text-shadow 0.5s ease;
 }
 
-a:hover, a:focus {text-decoration: underline;}
+a:hover, a:focus {text-decoration: none;}
 
 footer a {
   color: #9fa8a3;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 em {
