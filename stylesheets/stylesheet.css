@@ -138,15 +138,15 @@ img {
   position: relative;
   margin: 0 auto;
   max-width: 739px;
-  padding: 50px;
-  margin: 10px 10px 10px 10px;
+  padding: 5px;
+  margin: 10px 0px 0px 10px;
   border: 0px solid #9ad3de;
 
   box-shadow: 0 0 5px #9ad3de;
-  -webkit-box-shadow: 0 0 5px #9ad3de;
-  -moz-box-shadow: 0 0 5px #9ad3de;
-  -o-box-shadow: 0 0 5px #9ad3de;
-  -ms-box-shadow: 0 0 5px #9ad3de;
+  -webkit-box-shadow: 0 0 10px #9ad3de;
+  -moz-box-shadow: 0 0 10px #9ad3de;
+  -o-box-shadow: 0 0 10px #9ad3de;
+  -ms-box-shadow: 0 0 10px #9ad3de;
 }
 
 p img {
