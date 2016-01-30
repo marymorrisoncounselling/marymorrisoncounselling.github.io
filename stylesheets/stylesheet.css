@@ -44,9 +44,6 @@ table {
   border-spacing: 0;
 }
 
-a:link {
-    color: red;
-}
 /*******************************************************************************
 Theme Styles
 *******************************************************************************/
@@ -145,7 +142,7 @@ img {
   margin: 10px 0 10px 0;
   border: 1px solid #9ad3de;
 
-  box-shadow: 0 0 5px #9ad3de;
+  box-shadow: 0 0 50px #9ad3de;
   -webkit-box-shadow: 0 0 5px #9ad3de;
   -moz-box-shadow: 0 0 5px #9ad3de;
   -o-box-shadow: 0 0 5px #9ad3de;
