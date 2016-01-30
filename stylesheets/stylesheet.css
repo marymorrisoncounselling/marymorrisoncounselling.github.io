@@ -65,7 +65,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
   font-weight: 700;
-  color:#c5d5cb;
+  color:#4C4C4C;
   font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
   letter-spacing: -1px;
 }
@@ -102,7 +102,7 @@ p {
 }
 
 footer p {
-  color: #c5d5cb;
+  color: #9fa8a3;
 }
 
 a {
@@ -125,7 +125,7 @@ a {
 a:hover, a:focus {text-decoration: underline;}
 
 footer a {
-  color: #c5d5cb;
+  color: #9fa8a3;
   text-decoration: underline;
 }
 
@@ -256,7 +256,7 @@ td {
  }
 
 form {
-  background: #c5d5cb;
+  background: #9fa8a3;
   padding: 20px;
 }
 
