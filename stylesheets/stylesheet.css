@@ -50,7 +50,7 @@ Theme Styles
 
 body {
   box-sizing: border-box;
-  color:#373737;
+  color:#9fa8a3;
   background: #212121;
   font-size: 16px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
@@ -61,7 +61,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
   font-weight: 700;
-  color:#9fa8a3;
+  color:#c5d5cb;
   font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
   letter-spacing: -1px;
 }
@@ -234,7 +234,7 @@ hr {
 }
 
 table {
-  border: 1px solid #373737;
+  border: 1px solid #9fa8a3;
   margin-bottom: 20px;
   text-align: left;
  }
@@ -242,13 +242,13 @@ table {
 th {
   font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   padding: 10px;
-  background: #373737;
+  background: #9fa8a3;
   color: #fff;
  }
 
 td {
   padding: 10px;
-  border: 1px solid #373737;
+  border: 1px solid #9fa8a3;
  }
 
 form {
@@ -288,11 +288,11 @@ Full-Width Styles
 
 #header_wrap {
   background: #212121;
-  background: -moz-linear-gradient(top, #373737, #212121);
-  background: -webkit-linear-gradient(top, #373737, #212121);
-  background: -ms-linear-gradient(top, #373737, #212121);
-  background: -o-linear-gradient(top, #373737, #212121);
-  background: linear-gradient(top, #373737, #212121);
+  background: -moz-linear-gradient(top, #9fa8a3, #212121);
+  background: -webkit-linear-gradient(top, #9fa8a3, #212121);
+  background: -ms-linear-gradient(top, #9fa8a3, #212121);
+  background: -o-linear-gradient(top, #9fa8a3, #212121);
+  background: linear-gradient(top, #9fa8a3, #212121);
 }
 
 #header_wrap .inner {
