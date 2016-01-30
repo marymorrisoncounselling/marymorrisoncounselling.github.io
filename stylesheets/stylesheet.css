@@ -58,7 +58,7 @@ body {
   background: #c9c9c9;
   font-size: 14px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
-  line-height: 1.5;
+  line-height: 0;
   -webkit-font-smoothing: antialiased;
 }
 
