@@ -142,7 +142,7 @@ img {
   margin: 10px 0 10px 0;
   border: 1px solid #9ad3de;
 
-  box-shadow: 0 0 50px #9ad3de;
+  box-shadow: 0 0 5px #9ad3de;
   -webkit-box-shadow: 0 0 5px #9ad3de;
   -moz-box-shadow: 0 0 5px #9ad3de;
   -o-box-shadow: 0 0 5px #9ad3de;
@@ -305,7 +305,7 @@ Full-Width Styles
   color: #fff;
   font-size: 42px;
   font-weight: 700;
-  text-shadow: #111 0px 0px 10px;
+  text-shadow: #c9c9c9 10px 10px 10px;
 }
 
 #project_tagline {
