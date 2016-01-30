@@ -142,7 +142,7 @@ img {
   margin: 10px 0px 0px 10px;
   border: 0px solid #9ad3de;
 
-  box-shadow: 0 0 5px #9ad3de;
+  box-shadow: 0 0 10px #9ad3de;
   -webkit-box-shadow: 0 0 10px #9ad3de;
   -moz-box-shadow: 0 0 10px #9ad3de;
   -o-box-shadow: 0 0 10px #9ad3de;
@@ -166,9 +166,9 @@ pre, code {
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   font-size: 14px;
 
-  border-radius: 2px;
-  -moz-border-radius: 2px;
-  -webkit-border-radius: 2px;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
 }
 
 pre {
