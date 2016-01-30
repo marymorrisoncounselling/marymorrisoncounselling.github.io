@@ -138,9 +138,9 @@ img {
   position: relative;
   margin: 0 auto;
   max-width: 739px;
-  padding: 5px;
+  padding: 50px;
   margin: 10px 10px 10px 10px;
-  border: 1px solid #9ad3de;
+  border: 0px solid #9ad3de;
 
   box-shadow: 0 0 5px #9ad3de;
   -webkit-box-shadow: 0 0 5px #9ad3de;
