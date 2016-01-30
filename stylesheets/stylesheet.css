@@ -126,7 +126,7 @@ a {
 a:hover, a:focus {text-decoration: none;}
 
 footer a {
-  color: #9fa8a3;
+  color: #4C4C4C;
   text-decoration: none;
 }
 
@@ -144,13 +144,13 @@ img {
   max-width: 739px;
   padding: 5px;
   margin: 10px 0 10px 0;
-  border: 1px solid #ebebeb;
+  border: 1px solid #9ad3de;
 
-  box-shadow: 0 0 5px #ebebeb;
-  -webkit-box-shadow: 0 0 5px #ebebeb;
-  -moz-box-shadow: 0 0 5px #ebebeb;
-  -o-box-shadow: 0 0 5px #ebebeb;
-  -ms-box-shadow: 0 0 5px #ebebeb;
+  box-shadow: 0 0 5px #9ad3de;
+  -webkit-box-shadow: 0 0 5px #9ad3de;
+  -moz-box-shadow: 0 0 5px #9ad3de;
+  -o-box-shadow: 0 0 5px #9ad3de;
+  -ms-box-shadow: 0 0 5px #9ad3de;
 }
 
 p img {
